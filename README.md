@@ -2,6 +2,8 @@
 
 An autonomous robot that navigates and solves mazes using ultrasonic sensors and a PID controller for precise motion control.
 
+![Uploading made-solver-robot.png…]()
+
 ---
 
 ## 🚀 Features
